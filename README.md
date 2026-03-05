@@ -1,7 +1,7 @@
 # Mesa-Social-Ontology
 Agent-Based Modeling using Mesa framework. This model illustrates social ontological concept introduced in my bachelor's thesis.
 
-# Theoretical foundations
+## Theoretical foundations
 
 **Computational methods used:** Mesa framework (Agent-based modeling)
 
@@ -15,7 +15,7 @@ The main element of an **organization** is an **accepted status**, which exists 
 
 **The structure of the organization**, in its turn, does not exist in the brains of the members. It is an objective description of the functions that members perform while following the deontologies of the organization held in their brains.
 
-# The description and goals of the model
+## The description and goals of the model
 
 The goal is to demonstrate how different organization members can have different deontologies of the organization in their brains, while the structure of the organization still exists and possesses its own emergent properties. In this model, the structure can be characterized as defective because the organization falls apart due to the fact that some members hold a different deontology of the organization in their brains, which is not taken into account by all members in this case.
 
@@ -32,7 +32,7 @@ If a "Live queue" organization includes members with these two types of deontolo
 
 Additionally, "loiterers" were added to the model. They are agents who simply stand near the office to increase realism, reflecting that not everyone near the office intends to enter there.
 
-# Obtained results
+## Obtained results
 
 The simulation demonstrated that the organization can exist even with a defective structure for some time. However, this duration is typically limited to an average of 800–1000 steps. The functioning of an organization where members hold differing deontologies demonstrates that "the structure of the organization" and "the deontology of the organization" can be fruitful concepts for social ontology.
 
