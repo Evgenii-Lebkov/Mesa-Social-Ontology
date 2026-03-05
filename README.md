@@ -20,6 +20,7 @@ The main element of an **organization** is an **accepted status**, which exists 
 The goal is to demonstrate how different organization members can have different deontologies of the organization in their brains, while the structure of the organization still exists and possesses its own emergent properties. In this model, the structure can be characterized as defective because the organization falls apart due to the fact that some members hold a different deontology of the organization in their brains, which is not taken into account by all members in this case.
 
 **"Live queue"**
+
 The model simulates a so-called "live queue", which is common in some countries. The most important distinction of a "live queue" is that members of this type of queue must remember their predecessor and successor, even while everyone sits in a chaotic manner on chairs near the office. This happens because anyone wishing to join the queue must ask: "Who is the last person?" and take their place after this person, if there is one. Joining the "Live queue" organization, its creation, and other similar actions are viewed as mechanisms.
 
 **Model description**
